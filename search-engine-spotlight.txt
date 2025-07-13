@@ -1,0 +1,19 @@
+
+! Jul 13, 2025 https://duckduckgo.com news
+duckduckgo.com##.react-results--main li[data-layout=news]
+
+! Jul 13, 2025 https://duckduckgo.com images
+duckduckgo.com##.react-results--main li[data-layout=images]
+
+
+! Jul 13, 2025 https://duckduckgo.com videos
+duckduckgo.com##.react-results--main li[data-layout=videos]
+! Jul 13, 2025 https://duckduckgo.com
+duckduckgo.com##.react-results--main li[data-layout=news]
+
+! Jul 13, 2025 https://duckduckgo.com images
+duckduckgo.com##.react-results--main li[data-layout=images]
+
+
+! Jul 13, 2025 https://duckduckgo.com videos
+duckduckgo.com##.react-results--main li[data-layout=videos]

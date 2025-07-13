@@ -1,0 +1,19 @@
+! Jul 13, 2025 https://www.msn.com
+www.msn.com##.consumption-page-gridarea_action
+www.msn.com##.consumption-page-gridarea_rail
+www.msn.com##.consumption-page-feed-wrapper
+www.msn.com##.consumptionFeed_nextArticle.consumption-feed-content
+
+
+! Jul 13, 2025 https://economictimes.indiatimes.com
+economictimes.indiatimes.com##div.clearfix.article_block:nth-of-type(n+2)
+economictimes.indiatimes.com##.flr.artShare.vam.dtc
+economictimes.indiatimes.com##.newRHSSideBar.newSideBar.sideBar.flr
+
+
+! Jul 13, 2025 https://duckduckgo.com
+duckduckgo.com##.react-results--main li[data-layout=news]
+
+
+! Jul 13, 2025 https://timesofindia.indiatimes.com
+timesofindia.indiatimes.com###recoslisting
